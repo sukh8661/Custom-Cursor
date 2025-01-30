@@ -9,9 +9,9 @@ main.addEventListener("mousemove", function(e){
 });
 
 body.addEventListener("mouseenter", function() {
-    cursor.style.display = "block";
+    cursor.style.opacity= "1";
 });
 
 body.addEventListener("mouseleave", function() {
-    cursor.style.display = "none";
+    cursor.style.opacity= "0";
 });
