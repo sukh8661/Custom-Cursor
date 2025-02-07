@@ -22,13 +22,10 @@ This is a simple yet stylish **Custom Cursor** project built using **HTML, CSS, 
 ```
 
 ## 🎨 Features
-✅ Smoothly moving custom cursor 🎭
-
-✅ Responsive and interactive design 💡
-
-✅ Lightweight and fast ⚡
-
-✅ Uses `mix-blend-mode` for an eye-catching effect 🔥
+✅ Smoothly moving custom cursor 🎭      
+✅ Responsive and interactive design 💡    
+✅ Lightweight and fast ⚡   
+✅ Uses `mix-blend-mode` for an eye-catching effect 🔥    
 
 ## 📌 How It Works
 1. The cursor follows the mouse movement dynamically.
