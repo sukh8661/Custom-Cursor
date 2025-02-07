@@ -23,8 +23,11 @@ This is a simple yet stylish **Custom Cursor** project built using **HTML, CSS, 
 
 ## 🎨 Features
 ✅ Smoothly moving custom cursor 🎭
+
 ✅ Responsive and interactive design 💡
+
 ✅ Lightweight and fast ⚡
+
 ✅ Uses `mix-blend-mode` for an eye-catching effect 🔥
 
 ## 📌 How It Works
@@ -33,7 +36,7 @@ This is a simple yet stylish **Custom Cursor** project built using **HTML, CSS, 
 3. `mix-blend-mode: difference` makes the cursor stand out on the dark background.
 
 ## 📷 Preview
-![Custom Cursor Preview](https://cursor-sukh.vercel.app)
+[Custom Cursor Preview](https://cursor-sukh.vercel.app)
 
 ## 🚀 How to Use
 1. Clone the repository:
